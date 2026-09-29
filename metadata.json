@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Solicitação de Férias",
+  "description": "Sistema corporativo profissional para o setor de Recursos Humanos (RH) gerenciar funcionários, solicitações de férias, aprovações, calendário e histórico integrado com Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
